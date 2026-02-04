@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "client", "json-commit",
-    "server"
+    "client",
+    "server",
+    "json-commit"
 ]
